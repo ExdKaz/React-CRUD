@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Abhishek",
+      "lastname": "Rana",
+      "email": "abhishek@gmail.com",
+      "password": "Abhi$hek123",
+      "phone": "1234567899",
+      "course": [
+        "Angular",
+        "React"
+      ],
+      "gender": "male",
+      "courseStartDate": "2024-02-29T18:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "firstname": "Shiwam",
+      "lastname": "Nishad",
+      "email": "shiwam@gmail.com",
+      "password": "Shiwam@123",
+      "phone": "9876543212",
+      "course": [
+        "Angular"
+      ],
+      "gender": "male",
+      "courseStartDate": "2024-02-29T18:30:00.000Z"
+    },
+    {
+      "firstname": "Ankit",
+      "lastname": "Kumar",
+      "email": "ankit@gmail.com",
+      "password": "Ankit@123",
+      "phone": "1231231234",
+      "course": [
+        "Java",
+        "Vue",
+        "Angular"
+      ],
+      "gender": "male",
+      "courseStartDate": "2024-02-29T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstname": "Iflak",
+      "lastname": "Yousaf",
+      "email": "iflak@gmail.com",
+      "password": "1234567",
+      "phone": "123456789",
+      "course": [
+        "Angular",
+        "Java"
+      ],
+      "gender": "male",
+      "courseStartDate": "2023-12-31T18:30:00.000Z",
+      "id": 4
+    }
+  ]
+}
